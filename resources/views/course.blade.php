@@ -55,8 +55,7 @@
             <div style="padding:10px 0;margin:20px 0;border:solid 1px black" class="d-flex justify-content-end">
                 <a>video 2</a>
             </div>
-            <iframe style="width:100%;height:75%">
-            </iframe>
+            <video id="video_html5_api" class="vjs-tech" src="https://player.vimeo.com/external/219608985.hd.mp4?s=084e17ed7cd8fc23d69a093f1ef7b95817dc6fe9&amp;profile_id=119"><source src="https://player.vimeo.com/external/219608985.hd.mp4?s=084e17ed7cd8fc23d69a093f1ef7b95817dc6fe9&amp;profile_id=119" type="video/mp4" data-quality="HD" label="HD"> <source src="https://player.vimeo.com/external/219608985.sd.mp4?s=2ed2db180ec053b1e10e778a4262e90c2324b9e0&amp;profile_id=165" type="video/mp4" data-quality="SD" label="SD"></video>
         </div>
     </div>
 </div>
