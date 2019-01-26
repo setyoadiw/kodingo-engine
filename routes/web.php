@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('/', function(){
     return view('home');
 });
 Route::get('/course', 'CourseController@index')->name('course');
