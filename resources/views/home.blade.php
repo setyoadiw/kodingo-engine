@@ -155,7 +155,7 @@ body{
 
     </div>
 
-    <div style="background:rgba(255,255,255,0.4);width:100%;padding-bottom:5%">
+    <div style="background:rgba(255,255,255,0.4);width:100%;padding-bottom:5%;">
         <div class="container">
 
             <h1><b>Anda Seorang Guru</b></h1>

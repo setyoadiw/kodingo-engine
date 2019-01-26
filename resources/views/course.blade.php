@@ -2,7 +2,7 @@
 @section('course')
 <style>
 .side{
-    height:100%;
+    height:100%; 
 }
 #leftCol {
     position: absolute;
