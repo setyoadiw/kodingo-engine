@@ -108,7 +108,7 @@ body{
 
     <div style="background:#1e3a56;width:100%;height:auto;padding-top:5%;padding-bottom:5%">
         
-        <div class="container" style="border-radius:25px;height:980px;background:white;padding:20px;">
+        <div class="container" style="border-radius:25px;height:auto;background:white;padding:20px;">
             <div style="row mb-5">
                 <h1 class="text-center" style="padding-bottom:75px">
                     <b>Arkademy telah dipercaya oleh SMK untuk meningkatkan kompetensi guru dan siswanya</b>
@@ -146,9 +146,51 @@ body{
             </div>
 
             <div class="row mb-5 text-center">
-                <div style="border-radius:25px;width:100%;background:#1e3a56;height:100px;border:2px solid white;box-shadow: 0 0 10px 0 white">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center"style="border-radius:25px;background:#1e3a56;border:2px solid white;box-shadow: 0 0 10px 0 white; padding:50px;color:white">
+                <h1><b>1.000.000</b></h1>
+                <h2>Siswa Telah Bergabung</h2>
+                </div>
             </div>
 
+            <div class="row mb-5">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+                    <h2>
+                        <b>Jaringan Perusahaan Rekanan Arkademy</b>
+                    </h2>
+                </div>
+            </div>
+
+            <div class="row mb-5">
+                <div class="col-lg-2 offset-lg-1 col-md-12 col-sm-12 col-xs-12 mb-2">
+                    <img src="https://www.arkademy.com/asset/v4/img/hiring/true-money.png" style="max-width:100%;height:120px">
+                </div>
+                <div class="col-lg-2 col-md-12 col-sm-12 col-xs-12 mb-2">
+                    <img src="https://www.arkademy.com/asset/v4/img/hiring/true-money.png" style="max-width:100%;height:120px">
+                </div>
+                <div class="col-lg-2 col-md-12 col-sm-12 col-xs-12 mb-2">
+                    <img src="https://www.arkademy.com/asset/v4/img/hiring/true-money.png" style="max-width:100%;height:120px">
+                </div>
+                <div class="col-lg-2 col-md-12 col-sm-12 col-xs-12 mb-2">
+                    <img src="https://www.arkademy.com/asset/v4/img/hiring/true-money.png" style="max-width:100%;height:120px">
+                </div>
+                <div class="col-lg-2 col-md-12 col-sm-12 col-xs-12 mb-2">
+                    <img src="https://www.arkademy.com/asset/v4/img/hiring/true-money.png" style="max-width:100%;height:120px">
+                </div>
+                <div class="col-lg-2 offset-lg-1 col-md-12 col-sm-12 col-xs-12 mb-2">
+                    <img src="https://www.arkademy.com/asset/v4/img/hiring/true-money.png" style="max-width:100%;height:120px">
+                </div>
+                <div class="col-lg-2 col-md-12 col-sm-12 col-xs-12 mb-2">
+                    <img src="https://www.arkademy.com/asset/v4/img/hiring/true-money.png" style="max-width:100%;height:120px">
+                </div>
+                <div class="col-lg-2 col-md-12 col-sm-12 col-xs-12 mb-2">
+                    <img src="https://www.arkademy.com/asset/v4/img/hiring/true-money.png" style="max-width:100%;height:120px">
+                </div>
+                <div class="col-lg-2 col-md-12 col-sm-12 col-xs-12 mb-2">
+                    <img src="https://www.arkademy.com/asset/v4/img/hiring/true-money.png" style="max-width:100%;height:120px">
+                </div>
+                <div class="col-lg-2 col-md-12 col-sm-12 col-xs-12 mb-2">
+                    <img src="https://www.arkademy.com/asset/v4/img/hiring/true-money.png" style="max-width:100%;height:120px">
+                </div>
             </div>
 
         </div>
@@ -157,59 +199,195 @@ body{
 
     <div style="background:rgba(255,255,255,0.4);width:100%;padding-bottom:5%;">
         <div class="container">
-
-            <h1><b>Anda Seorang Guru</b></h1>
-            <span>Bagaimana Arkademy bisa membantu Anda ?</span>
+            <div class="row mb-5" style="padding-top:75px">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center text-wrapper">
+                    <h1><b>Anda Seorang Guru</b></h1>
+                    <p>Bagaimana Arkademy bisa membantu Anda ?</p>
+                </div>
+            </div>
 
             <div class="row">
 
                 <div class="col-sm-5" style="margin:4%">
-                    <div class="card">
-                        <img src="https://www.arkademy.com/asset/v3/img/icon-sertifikasi.svg" alt="" class="img-fluid mb-3">
-                        <div style="background:red;width:100%;height:200px;"></div>
-
+                    <div class="card" style="border-radius:20px">
+                        <img src="https://www.arkademy.com/asset/v3/img/icon-sertifikasi.svg" style="padding:40px 20px 20px 20px">
+                        <center><hr style="width:90%;"><center>
+                        <div class="text-center" style="font-size: 1.25rem;font-weight: 300;">
+                            <p style="margin-bottom=1rem">Temukan berbagai course untuk mendapatkan kesempatan sertifikasi</p>
+                        </div>
                     </div>
                 </div>
 
                 <div class="col-sm-5" style="margin:4%">
-                    <div class="card">
-                        <img src="https://www.arkademy.com/asset/v3/img/icon-search.svg" alt="" class="img-fluid mb-3">
-                        <div style="background:red;width:100%;height:200px;"></div>
-
+                    <div class="card" style="border-radius:20px">
+                        <img src="https://www.arkademy.com/asset/v3/img/icon-search.svg" style="padding:40px 20px 20px 20px">
+                        <center><hr style="width:90%;"><center>
+                        <div class="text-center" style="font-size: 1.25rem;font-weight: 300;">
+                            <p style="margin-bottom=1rem">Dashboard Skill Siswa untuk memantau perkembangan Siswa secara online</p>
+                        </div>
                     </div>
                 </div>
 
                 <div class="col-sm-5" style="margin:4%">
-                    <div class="card">
-                        <img src="https://www.arkademy.com/asset/v3/img/icon-books.svg" alt="" class="img-fluid mb-3">
-                        <div style="background:red;width:100%;height:200px;"></div>
-
+                    <div class="card" style="border-radius:20px">
+                        <img src="https://www.arkademy.com/asset/v3/img/icon-books.svg" style="padding:40px 20px 20px 20px">
+                        <center><hr style="width:90%;"><center>
+                        <div class="text-center" style="font-size: 1.25rem;font-weight: 300;">
+                            <p style="margin-bottom=1rem">Bank Soal yang berisi Bahan Soal Rekrutmen Perusahaan untuk Tugas Siswa</p>
+                        </div>
                     </div>
                 </div>
 
                 <div class="col-sm-5" style="margin:4%">
-                    <div class="card">
-                        <img src="https://www.arkademy.com/asset/v3/img/icon-hiring.svg" alt="" class="img-fluid mb-3">
-                        <div style="background:red;width:100%;height:200px;"></div>
+                    <div class="card" style="border-radius:20px">
+                        <img src="https://www.arkademy.com/asset/v3/img/icon-hiring.svg" style="padding:40px 20px 20px 20px">
+                        <center><hr style="width:90%;"><center>
+                        <div class="text-center" style="font-size: 1.25rem;font-weight: 300;">
+                            <p style="margin-bottom=1rem">Daftar Perusahaan Rekanan Arkademy untuk pengajuan Prakerin/Magang</p>
+                        </div>
                     </div>
                 </div>
 
             </div>
 
             <center>
-            <button type="button" class="btn btn-primary">Primary</button>
+            <button type="button" class="btn btn-primary">Pelajari Lebih Lanjut</button>
             <center>
 
         </div>
     </div>
 
     <div style="background:#1E3A56;width:100%;height:50%;padding:2%">
-        <div class="container" style="background:white;height:100%;border-radius:20px"></div>
+        <div class="container" style="background:white;height:100%;border-radius:20px">
+
+            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="row d-block w-100">
+                            <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 mx-auto">
+                                <div class="row mt-5">
+                                    <div class="col-lg-2 col-md-12 col-sm-12 col-xs-12 mx-auto">
+                                        <div style="background:black;width:150px;height:150px;border-radius:50%;"></div>
+                                    </div>
+                                    <div class="col-lg-10 col-md-12 col-sm-12 col-xs-12 mt-3 text-center">
+                                        <p>
+                                            <q>Ini Quotes</q>
+                                        </p>
+                                        <p>
+                                        Nama orang
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="row d-block w-100">
+                            <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 mx-auto">
+                                <div class="row mt-5">
+                                    <div class="col-lg-2 col-md-12 col-sm-12 col-xs-12 mx-auto">
+                                        <div style="background:blue;width:150px;height:150px;border-radius:50%;"></div>
+                                    </div>
+                                    <div class="col-lg-10 col-md-12 col-sm-12 col-xs-12 mt-3 text-center">
+                                        <p>
+                                            <q>Ini Quotes</q>
+                                        </p>
+                                        <p>
+                                        Nama orang
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="row d-block w-100">
+                            <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 mx-auto">
+                                <div class="row mt-5">
+                                    <div class="col-lg-2 col-md-12 col-sm-12 col-xs-12 mx-auto">
+                                        <div style="background:red;width:150px;height:150px;border-radius:50%;"></div>
+                                    </div>
+                                    <div class="col-lg-10 col-md-12 col-sm-12 col-xs-12 mt-3 text-center">
+                                        <p>
+                                            <q>Ini Quotes</q>
+                                        </p>
+                                        <p>
+                                        Nama orang
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
     </div>
 
-    <div style="width:100%;height:auto;background:silver">
+    <div style="width:100%;height:auto;background:white">
         <div class="container" style="padding-top:5%;padding-bottom:5%;height:auto">
-            <div style="background:black;width:100%;height:80%;"></div>
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+                    <h2>
+                    <b>Arkademy telah diliput oleh berbagai media online:</b>
+                    </h2>
+                </div>
+            </div>
+
+            <div class="row  text-center mt-5">
+                <div class="col-lg-2 col-md-12 col-sm-12 col-xs-12 mb-3 mx-auto">
+                    <img src="https://www.arkademy.com/asset/v4/img/as-seen-on/logo-goodnews.png" class="img-fluid" style="height: 40px;margin-bottom: 30px;">
+                </div>
+                <div class="col-lg-2 col-md-12 col-sm-12 col-xs-12 mb-3 mx-auto">
+                    <img src="https://www.arkademy.com/asset/v4/img/as-seen-on/logo-goodnews.png" class="img-fluid" style="height: 40px;margin-bottom: 30px;">
+                </div>
+                <div class="col-lg-2 col-md-12 col-sm-12 col-xs-12 mb-3 mx-auto">
+                    <img src="https://www.arkademy.com/asset/v4/img/as-seen-on/logo-goodnews.png" class="img-fluid" style="height: 40px;margin-bottom: 30px;">
+                </div>
+                <div class="col-lg-2 col-md-12 col-sm-12 col-xs-12 mb-3 mx-auto">
+                    <img src="https://www.arkademy.com/asset/v4/img/as-seen-on/logo-goodnews.png" class="img-fluid" style="height: 40px;margin-bottom: 30px;">
+                </div>
+                <div class="col-lg-2 col-md-12 col-sm-12 col-xs-12 mb-3 mx-auto">
+                    <img src="https://www.arkademy.com/asset/v4/img/as-seen-on/logo-goodnews.png" class="img-fluid" style="height: 40px;margin-bottom: 30px;">
+                </div>
+            </div>
+
+            <div class="sponsored-wrapper mt-5">
+                <div class="container">
+
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+                            <h2>
+                                <b>Didukung Oleh :</b>
+                            </h2>
+                        </div>
+                    </div>
+
+                    <div class="row  text-center mt-5">
+                        <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 mb-3 mx-auto">
+                            <img src="https://www.arkademy.com/asset/v4/img/Partners/Indigo-k24Lh.png" class="img-fluid">
+                        </div>
+                        <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 mb-3 mx-auto">
+                            <img src="https://www.arkademy.com/asset/v4/img/Partners/impactbyte_horizontal_color-trans.svg" class="img-fluid custom-sponsored">
+                        </div>
+                        <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 mb-3 mx-auto">
+                            <img src="https://www.arkademy.com/asset/v4/img/Partners/dw-favicon-final.png" alt="" class="img-fluid custom-sponsored">
+                        </div>
+                        <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 mb-3 mx-auto">
+                            <img src="https://www.arkademy.com/asset/v4/img/Partners/logo-code-plain.png" alt="" class="img-fluid custom-sponsored">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
 </body>
