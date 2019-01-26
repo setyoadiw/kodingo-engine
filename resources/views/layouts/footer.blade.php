@@ -13,17 +13,17 @@
     padding-top: 20px;
     padding-bottom: 80px;
 }
-ul{
+.fo{
     list-style:none;
     padding:0;
 }
-ul li{
+.fo li{
     padding:4%;
 }
-ul li a{
+.fo li a{
     color:#e0e0e0;
 }
-ul li a:hover{
+.fo li a:hover{
     color:#e0e0e0
 }
 </style>
@@ -35,7 +35,7 @@ ul li a:hover{
                 <h4>
                     <b>TENTANG ARKADEMY</b>
                 </h4>
-                <ul>
+                <ul class="fo">
                     <li>
                         <a href="#">Tentang Kami</a>
                     </li>
@@ -48,7 +48,7 @@ ul li a:hover{
                 <h4>
                     <b>PRODUK ARKADEMY</b>
                 </h4>
-                <ul>
+                <ul class="fo">
                     <li>
                         <a href="#">Modul Belajar</a>
                     </li>
@@ -67,7 +67,7 @@ ul li a:hover{
                 <h4>
                     <b>INFORMASI LAIN</b>
                 </h4>
-                <ul>
+                <ul class="fo">
                     <li>
                         <a href="#">Masuk</a>
                     </li>
