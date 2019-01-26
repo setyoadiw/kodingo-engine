@@ -3,7 +3,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light" style="padding:0">
+<nav class="navbar navbar-expand-lg navbar-light bg-light" style="padding:0;width:100%">
     <a class="navbar-brand" href="#">
         <img style="width:100px;" src="https://www.arkademy.com/asset/v4/img/logo%20arkademy-tech%20academy-03.svg">
     </a>
@@ -29,9 +29,9 @@
                 <a class="nav-link" href="#">Premium</a>
             </li>
         </ul>
-        <div class="float-right">
-            <button type="button" class="btn btn-white btn-rounded" style="border-color:orange">Masuk</button>
-            <button type="button" class="btn btn-orange btn-rounded nav-button" style="color:white;background:orange">Daftar</button>
+        <div>
+            <button type="button" class="btn" style="border-color:orange">Masuk</button>
+            <button type="button" class="btn" style="color:white;background:orange">Daftar</button>
         </div>
     </div>
 </nav>

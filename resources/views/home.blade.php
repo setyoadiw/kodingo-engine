@@ -72,7 +72,36 @@ body{
         </div>
     </div>
 
-    <div style="background:blue;height:100%;width:100%;"></div>
+    <div style="background:#1e3a56;color:white;height:auto;width:100%;padding:10%">
+        <div class="container">
+            <div class="row" style="padding-bottom:10%">
+                <div class="col col-md-6">
+                    <h2><b>CV</b> Online</h2>
+                    <hr style="width:10%;border:solid 2px orange; float:left">
+                    <p style="float:right">Arkademy memudahkan kamu untuk membuat CV
+                    agar terlihat profesional dengan skill yang terupdate
+                    secara real-time sesuai dengan kemampuan
+                    pemrograman yang kamu miliki. </p>
+                </div>
+                <div class="col col-md-6">
+                    <img style="width:95%" src="https://www.arkademy.com/asset/v3/img/forum.svg">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col col-md-6">
+                    <img style="width:95%" src="https://www.arkademy.com/asset/v3/img/forum.svg">
+                </div>
+                <div class="col col-md-6">
+                    <h2><b>CV</b> Online</h2>
+                    <hr style="width:10%;border:solid 2px orange;" class="float-left">
+                    <p style="float:right">Arkademy memudahkan kamu untuk membuat CV
+                    agar terlihat profesional dengan skill yang terupdate
+                    secara real-time sesuai dengan kemampuan
+                    pemrograman yang kamu miliki. </p>
+                </div>
+            </div>
+        </div>
+    </div>
     
     <div style="background:white;">
         <div class="container" style="padding-bottom:75px;padding-top:75px">
