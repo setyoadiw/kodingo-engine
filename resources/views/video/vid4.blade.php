@@ -99,7 +99,7 @@
             <nav class="navbar navbar-light bg-light" style="width:100%;border-bottom:solid 1px #e3e3e3">
                 <div class="container">
                     <a class="navbar-brand" href="#">
-                        <h2>Judul 1</h2>
+                        <h2>Judul 4</h2>
                     </a>
                     <span><h6>Episode 1</h6></span>
                 </div>
@@ -108,12 +108,12 @@
             <div class="container" style="padding-top:5%;width:90%;position:relative;height:100%">
                 <div style="border:solid 1px #e5e5e5;padding:10px;">
                     <div class="text-right">
-                        <span>Judul 2</span>
+                        <span>Judul 5</span>
                     </div>
                 </div>
 
                 <div style="width:100%;height:100%;position:relative;padding-top:5%">
-                    <iframe width="100%" height="480px" src="https://www.youtube.com/embed/Oryq_TdAyNI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                    <iframe width="100%" height="480px" src="https://www.youtube.com/embed/JSXGagNzNLw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                     </iframe>
                     <div style="padding-top:5%"></div>
                 </div>

@@ -107,9 +107,11 @@
             </nav>
             <div class="container" style="padding-top:5%;width:90%;position:relative;height:100%">
                 <div style="border:solid 1px #e5e5e5;padding:10px;">
-                    <div class="text-right">
-                        <span>Judul 2</span>
-                    </div>
+                    <a href="{{route('vid2')}}">
+                        <div class="text-right">
+                            <span>Judul 2</span>
+                        </div>
+                    </a>
                 </div>
 
                 <div style="width:100%;height:100%;position:relative;padding-top:5%">
