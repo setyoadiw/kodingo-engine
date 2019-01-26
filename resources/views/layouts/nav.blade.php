@@ -12,4 +12,4 @@
     </div>
 </nav>
 
-@yield('course')
+@yield('scaling')
