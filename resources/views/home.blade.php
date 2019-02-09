@@ -77,7 +77,7 @@ body{
         </div>
     </div>
 
-    <div style="background:#1e3a56;color:white;height:auto;width:100%;padding:10%">
+    {{-- <div style="background:#1e3a56;color:white;height:auto;width:100%;padding:10%">
         <div class="container">
             <div class="row" style="padding-bottom:10%">
                 <div class="col col-md-6">
@@ -106,9 +106,9 @@ body{
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     
-    <div style="background:white;">
+    {{-- <div style="background:white;">
         <div class="container" style="padding-bottom:75px;padding-top:75px">
             <div class="row">
 
@@ -138,9 +138,9 @@ body{
                 <button type=button class="btn btn-lg" style="color:orange;border-radius:20px;border:solid 2px orange">Pelajari Lebih Lanjut</button>
             </div>
         </div>
-    </div>
+    </div> --}}
 
-    <div style="background:#1e3a56;width:100%;height:auto;padding-top:5%;padding-bottom:5%">
+    {{-- <div style="background:#1e3a56;width:100%;height:auto;padding-top:5%;padding-bottom:5%">
         
         <div class="container" style="border-radius:25px;height:auto;background:white;padding:20px;">
             <div style="row mb-5">
@@ -229,9 +229,9 @@ body{
 
         </div>
 
-    </div>
+    </div> --}}
 
-    <div style="background:rgba(255,255,255,0.4);width:100%;padding-bottom:5%;">
+    {{-- <div style="background:rgba(255,255,255,0.4);width:100%;padding-bottom:5%;">
         <div class="container">
             <div class="row mb-5" style="padding-top:75px">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center text-wrapper">
@@ -289,9 +289,9 @@ body{
             <center>
 
         </div>
-    </div>
+    </div> --}}
 
-    <div style="background:#1E3A56;width:100%;height:50%;padding:2%">
+    {{-- <div style="background:#1E3A56;width:100%;height:50%;padding:2%">
         <div class="container" style="background:white;height:100%;border-radius:20px">
 
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
@@ -364,9 +364,9 @@ body{
                 </a>
             </div>
         </div>
-    </div>
+    </div> --}}
 
-    <div style="width:100%;height:auto;background:white">
+    {{-- <div style="width:100%;height:auto;background:white">
         <div class="container" style="padding-top:5%;padding-bottom:5%;height:auto">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
@@ -423,7 +423,7 @@ body{
             </div>
 
         </div>
-    </div>
+    </div> --}}
 </body>
 
     @component('layouts.footer')

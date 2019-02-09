@@ -14,6 +14,7 @@
 Route::get('/', function(){
     return view('home');
 })->name('/');
+
 Route::get('/course', 'CourseController@index')->name('course');
 Route::prefix('course')->group(function(){
     route::get('/scaling',function(){
